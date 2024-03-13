@@ -8,7 +8,7 @@
 - peas
 - mushrooms
 - onions
--cheese
+- cheese
 
 
 ## TODO: we need the instructions
